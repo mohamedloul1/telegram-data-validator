@@ -1,4 +1,4 @@
-#Telegram Mini App Validation Project
+# Telegram Mini App Validation Project
 
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
